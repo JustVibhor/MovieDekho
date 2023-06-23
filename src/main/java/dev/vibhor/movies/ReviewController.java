@@ -12,7 +12,7 @@ import java.util.Map;
 
 //will only contain 1 post method
 @RestController
-@RequestMapping("/api/v1/movies")
+@RequestMapping("/api/v1/reviews")
 public class ReviewController {
     @Autowired
     private ReviewService reviewService;
