@@ -1,2 +1,2 @@
 # MovieDekho
-Ott platform using Spring boot, react for frontend and mongodb for the database.
+OTT platform using Spring boot, react for frontend and mongodb for the database.
